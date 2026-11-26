@@ -87,3 +87,5 @@ C programming and IT support skills. Windows and cloud labs follow later.
 - [ ] Wireshark capture on the virtual network (lab note 02)
 - [ ] Windows 11 ARM VM
 - [ ] Windows Server / Active Directory via an Azure free account
+
+Cloned this repo on the Ubuntu VM with its own SSH key.
